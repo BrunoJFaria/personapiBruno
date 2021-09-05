@@ -4,6 +4,6 @@ Nesse projeto é desenvolvido um pequeno sistema para o gerenciamento de pessoas
 
 ## Requisitos:
 
-*Java 11
-*Maven 3.6.3
-*Github
+* Java 11
+* Maven 3.6.3
+* Github
